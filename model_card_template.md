@@ -6,7 +6,7 @@ For additional information see the Model Card paper: https://arxiv.org/pdf/1810.
 The model is a Random Forest Classifier trained using Scikit-learn 1.5.1 It applies OneHotEncoding for categorical variables and LabelBinarizer for the target variable. The data is split 80-20 for training and evaluation.
 
 ## Intended Use
-This model predicts income levels based on demographic.learning but should not be used for hiring, financial decisions, or policy-making.
+This model predicts income levels based on demographic.it is intended for research and learning but should not be used for hiring, financial decisions, or policy-making.
 ## Training Data
 The model was trained on the Census Income Dataset.The dataset contains 32,561 entries with attributes such as age, education, occupation, and hours worked per week. 
 ## Evaluation Data
