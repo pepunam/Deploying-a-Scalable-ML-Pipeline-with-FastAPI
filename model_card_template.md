@@ -17,5 +17,5 @@ The model’s key performance scores are: Precision: 0.7455, Recall: 0.6359, F1-
 ## Ethical Considerations
 The dataset has sensitive demographic features, which could cause biased predictions. Performance differs across race, gender, and education levels, so more bias mitigation is needed before real-world use.
 ## Caveats and Recommendations
-he model is trained on 1994 census data, which may not reflect current economic conditions. Regular retraining with updated data and bias analysis is recommended before deployment.
+The model is trained on 1994 census data, which may not reflect current economic conditions. Regular retraining with updated data and bias analysis is recommended before deployment.
 
